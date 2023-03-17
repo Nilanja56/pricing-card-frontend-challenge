@@ -131,3 +131,10 @@ span {
   opacity: 0.8;
   line-height: 17px;
 }
+
+@media (max-width: 650px) {
+  #container ,.box-2,.box-3{
+    width: 100%;
+    height: auto;
+  }
+}
